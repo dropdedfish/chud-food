@@ -15,3 +15,5 @@
 
 
 ![about](/about.md)
+![cool](/coolstuff.md)
+![random](/random.md)

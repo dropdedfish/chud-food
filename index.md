@@ -1,5 +1,5 @@
 #Home 
-# My name is Noah Wheelock I like cats,food and games. 
+# My name is Noah Wheelock and this page will be all about me. 
 
 
 
